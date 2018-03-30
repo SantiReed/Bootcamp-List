@@ -1,0 +1,14 @@
+﻿Compilación iniciada a las 29/03/2018 22:16:11.
+     1>Proyecto "C:\Users\Meli-Santi\Desktop\Bootcamp C++\Lista\Lista\Lista\Lista.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\meli-santi\desktop\bootcamp c++\lista\lista\lista\node.h(16): error C2065: 'List' : identificador no declarado
+     1>c:\users\meli-santi\desktop\bootcamp c++\lista\lista\lista\node.h(16): error C2065: 'lcde' : identificador no declarado
+     1>c:\users\meli-santi\desktop\bootcamp c++\lista\lista\lista\node.h(16): error C2182: 'init' : uso no válido del tipo 'void'
+     1>c:\users\meli-santi\desktop\bootcamp c++\lista\lista\lista\node.h(16): fatal error C1903: no se puede recuperar de errores anteriores; se detiene la compilación
+     1>Compilación del proyecto terminada "C:\Users\Meli-Santi\Desktop\Bootcamp C++\Lista\Lista\Lista\Lista.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.89
